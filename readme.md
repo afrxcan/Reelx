@@ -1,9 +1,8 @@
-# 🎬 MovieVault
+# 🎬 Reelx
 
 A sleek, TMDB-style movie discovery website built with vanilla HTML, CSS, and JavaScript.
 Dark cinema aesthetic — no frameworks, no build tools, just open the browser and go.
 
-> Built by [Claude](https://claude.ai) (Anthropic) for Ernest.
 
 ---
 
@@ -23,7 +22,7 @@ Dark cinema aesthetic — no frameworks, no build tools, just open the browser a
 ## 🗂️ Project Structure
 
 ```
-movievault/
+Reelx/
 ├── index.html   — Markup and layout
 ├── style.css    — All styling (dark cinema theme)
 ├── app.js       — API calls, state, rendering
