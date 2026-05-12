@@ -5,17 +5,17 @@ Dark cinema aesthetic — Vite-powered dev server.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔥 **Trending / Popular / Top Rated / Upcoming** filter tabs
-- 🔍 **Live search** across the full TMDB movie catalogue
-- 🎬 **Ken Burns hero slideshow** — 5 trending movies cycle automatically with slow zoom + fade
-- 🎥 **Netflix-style inline trailer** — after 8s on a slide, the trailer plays directly in the hero (muted, no controls). Mute toggle + close button included
-- 📽️ **Modal trailer playback** — full YouTube embed via the ▶ Trailer button
-- 🎭 **Movie detail pages** — poster, tagline, genres, cast row, budget/revenue, similar movies
-- 📊 **Full cast row** with profile photos and character names
-- 📱 **Fully responsive** — hamburger menu on mobile, fluid grid at all screen sizes
-- ✨ **Smooth animations** — Ken Burns zoom, hero content fade-in, card hovers, toast notifications, progress bar
+-  **Trending / Popular / Top Rated / Upcoming** filter tabs
+-  **Live search** across the full TMDB movie catalogue
+-  **Ken Burns hero slideshow** — 5 trending movies cycle automatically with slow zoom + fade
+-  **Netflix-style inline trailer** — after 8s on a slide, the trailer plays directly in the hero (muted, no controls). Mute toggle + close button included
+-  **Modal trailer playback** — full YouTube embed via the ▶ Trailer button
+-  **Movie detail pages** — poster, tagline, genres, cast row, budget/revenue, similar movies
+-  **Full cast row** with profile photos and character names
+-  **Fully responsive** — hamburger menu on mobile, fluid grid at all screen sizes
+-  **Smooth animations** — Ken Burns zoom, hero content fade-in, card hovers, toast notifications, progress bar
 
 ---
 
@@ -57,7 +57,7 @@ VITE_API_KEY=a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4
 
 ---
 
-## 🚀 Running the Project
+##  Running the Project
 
 Reelx uses **Vite** as a dev server (required because `app.js` uses `import.meta.env` to read your API key securely).
 
@@ -77,7 +77,7 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 | Action | How |
 |---|---|
